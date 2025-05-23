@@ -1,4 +1,6 @@
-# Top 10 Most Popular [npm](https://npmjs.com) Packages (authored by me)
+# Top 10 Most Popular Things Authored By Me
+
+## [npm](https://npmjs.com) Packages
 
 | Name | Monthly Downloads ⬇ | Weekly Downloads |
 | ---- | -------------------: | ---------------: |
@@ -13,7 +15,7 @@
 | [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 401,032 | 91,582 |
 | [winattr](https://www.npmjs.com/package/winattr) | 255,825 | 61,383 |
 
-# Top 10 Most Popular [GitHub](https://github.com) Repositories (authored by me)
+## [GitHub](https://github.com) Repositories
 
 | Name | Stars ⬇ |
 | ---- | -------: |

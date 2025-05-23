@@ -1,18 +1,19 @@
 {
   "private": true,
   "name": "stevenvachon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "author": "Steven Vachon <contact@svachon.com> (https://svachon.com)",
   "repository": "github:stevenvachon/stevenvachon",
   "type": "module",
   "scripts": {
-    "generate": "node src/index.js"
+    "generate": "node --env-file-if-exists=.env src/index.js"
   },
   "engines": {
     "node": ">= 24"
   },
   "dependencies": {
-    "dedent": "^1.6.0"
+    "dedent": "^1.6.0",
+    "p-queue": "^8.1.0"
   }
 }

@@ -4,13 +4,22 @@ const date = (d) =>
   new Intl.DateTimeFormat('en-US', {
     dateStyle: 'full',
     timeZone: 'UTC',
-  }).format(new Date(d));
+  }).format(d);
 
 const number = (n) => new Intl.NumberFormat('en-US').format(n);
 
-export default ({ packages, repositories }) =>
+export default ({
+  accountCreationYear,
+  numIssues,
+  numPullRequests,
+  packages,
+  repositories,
+}) =>
   dedent(`
-    # Top 10 Most Popular [npm](https://npmjs.com) Packages (authored by me)
+    - **${numPullRequests}** public **pull requests merged** since *${accountCreationYear}*.
+    - **${numIssues}** public **issues reported** since *${accountCreationYear}*.
+    
+    ## Top 10 Most Popular [npm](https://npmjs.com) Packages (authored by me)
 
     | Name | Monthly Downloads ⬇ | Weekly Downloads |
     | ---- | -------------------: | ---------------: |
@@ -21,7 +30,7 @@ export default ({ packages, repositories }) =>
       )
       .join('\n')}
 
-    # Top 10 Most Popular [GitHub](https://github.com) Repositories (authored by me)
+    ## Top 10 Most Popular [GitHub](https://github.com) Repositories (authored by me)
 
     | Name | Stars ⬇ |
     | ---- | -------: |

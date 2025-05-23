@@ -8,5 +8,5 @@ npm run generate
 
 Deployment will be performed automatically:
 
-- When pushing/merging to the "main" branch.
+- When pushing/merging to this branch.
 - Once per week.

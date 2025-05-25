@@ -1,0 +1,4 @@
+# Residual files from switching from "generator" branch
+.env
+generated/
+node_modules/

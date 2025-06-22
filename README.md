@@ -5,16 +5,16 @@
 
 | Name | Monthly Downloads ⬇ | Weekly Downloads |
 | ---- | -------------------: | ---------------: |
-| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 222,380,458 | 51,821,791 |
-| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 68,365,598 | 15,407,253 |
-| [relateurl](https://www.npmjs.com/package/relateurl) | 56,981,314 | 13,059,637 |
-| [url-to-options](https://www.npmjs.com/package/url-to-options) | 9,068,988 | 2,129,293 |
-| [isurl](https://www.npmjs.com/package/isurl) | 8,357,547 | 1,960,242 |
-| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 699,312 | 163,229 |
-| [universal-url](https://www.npmjs.com/package/universal-url) | 604,081 | 135,803 |
-| [hasurl](https://www.npmjs.com/package/hasurl) | 603,971 | 135,763 |
-| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 400,828 | 97,060 |
-| [winattr](https://www.npmjs.com/package/winattr) | 264,157 | 63,002 |
+| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 235,293,861 | 63,758,445 |
+| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 70,876,085 | 18,485,051 |
+| [relateurl](https://www.npmjs.com/package/relateurl) | 59,276,924 | 15,554,030 |
+| [url-to-options](https://www.npmjs.com/package/url-to-options) | 9,713,866 | 2,798,153 |
+| [isurl](https://www.npmjs.com/package/isurl) | 8,965,253 | 2,591,389 |
+| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 782,042 | 248,135 |
+| [universal-url](https://www.npmjs.com/package/universal-url) | 722,385 | 247,363 |
+| [hasurl](https://www.npmjs.com/package/hasurl) | 722,258 | 247,318 |
+| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 419,868 | 110,622 |
+| [winattr](https://www.npmjs.com/package/winattr) | 263,607 | 60,833 |
 
 ## Top 10 Most Popular [GitHub](https://github.com) Repositories (authored by me)
 
@@ -32,4 +32,4 @@
 | [camelcase-css](https://github.com/stevenvachon/camelcase-css) | 15 |
 
 ---
-File generated on: Sunday, June 15, 2025
+File generated on: Sunday, June 22, 2025

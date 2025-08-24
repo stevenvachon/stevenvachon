@@ -1,20 +1,20 @@
 - **163** public **pull requests merged** since *2009*.
-- **1133** public **issues reported** since *2009*.
+- **1135** public **issues reported** since *2009*.
 
 ## Top 10 Most Popular [npm](https://npmjs.com) Packages (authored by me)
 
 | Name | Monthly Downloads ⬇ | Weekly Downloads |
 | ---- | -------------------: | ---------------: |
-| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 215,484,999 | 44,909,717 |
-| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 65,182,003 | 14,236,034 |
-| [relateurl](https://www.npmjs.com/package/relateurl) | 56,274,060 | 12,057,732 |
-| [url-to-options](https://www.npmjs.com/package/url-to-options) | 8,579,776 | 1,757,841 |
-| [isurl](https://www.npmjs.com/package/isurl) | 7,770,119 | 1,571,354 |
-| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 773,259 | 139,377 |
-| [universal-url](https://www.npmjs.com/package/universal-url) | 419,664 | 81,939 |
-| [hasurl](https://www.npmjs.com/package/hasurl) | 419,501 | 81,870 |
-| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 370,401 | 72,586 |
-| [winattr](https://www.npmjs.com/package/winattr) | 230,261 | 33,666 |
+| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 210,977,634 | 45,772,460 |
+| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 65,825,296 | 14,386,308 |
+| [relateurl](https://www.npmjs.com/package/relateurl) | 54,975,578 | 12,406,849 |
+| [url-to-options](https://www.npmjs.com/package/url-to-options) | 8,271,376 | 1,851,529 |
+| [isurl](https://www.npmjs.com/package/isurl) | 7,473,818 | 1,672,310 |
+| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 716,419 | 147,947 |
+| [universal-url](https://www.npmjs.com/package/universal-url) | 391,255 | 82,410 |
+| [hasurl](https://www.npmjs.com/package/hasurl) | 391,086 | 82,390 |
+| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 351,115 | 79,968 |
+| [winattr](https://www.npmjs.com/package/winattr) | 231,323 | 60,744 |
 
 ## Top 10 Most Popular [GitHub](https://github.com) Repositories (authored by me)
 
@@ -32,4 +32,4 @@
 | [camelcase-css](https://github.com/stevenvachon/camelcase-css) | 15 |
 
 ---
-File generated on: Sunday, August 17, 2025
+File generated on: Sunday, August 24, 2025

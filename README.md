@@ -5,22 +5,22 @@
 
 | Name | Monthly Downloads ⬇ | Weekly Downloads |
 | ---- | -------------------: | ---------------: |
-| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 241,594,107 | 56,775,291 |
-| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 75,057,093 | 18,583,773 |
-| [relateurl](https://www.npmjs.com/package/relateurl) | 62,355,727 | 14,783,600 |
-| [url-to-options](https://www.npmjs.com/package/url-to-options) | 9,223,545 | 2,193,758 |
-| [isurl](https://www.npmjs.com/package/isurl) | 8,564,945 | 2,052,015 |
-| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 768,464 | 179,626 |
-| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 541,586 | 120,900 |
-| [universal-url](https://www.npmjs.com/package/universal-url) | 507,904 | 129,581 |
-| [hasurl](https://www.npmjs.com/package/hasurl) | 506,889 | 126,039 |
-| [evaluate-value](https://www.npmjs.com/package/evaluate-value) | 327,343 | 80,096 |
+| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 238,442,498 | 50,794,846 |
+| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 74,147,947 | 16,444,838 |
+| [relateurl](https://www.npmjs.com/package/relateurl) | 61,015,791 | 13,070,828 |
+| [url-to-options](https://www.npmjs.com/package/url-to-options) | 8,996,786 | 1,757,132 |
+| [isurl](https://www.npmjs.com/package/isurl) | 8,302,232 | 1,602,813 |
+| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 756,284 | 141,720 |
+| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 529,779 | 129,989 |
+| [universal-url](https://www.npmjs.com/package/universal-url) | 500,630 | 87,416 |
+| [hasurl](https://www.npmjs.com/package/hasurl) | 500,445 | 87,398 |
+| [evaluate-value](https://www.npmjs.com/package/evaluate-value) | 327,127 | 89,482 |
 
 ## Top 10 Most Popular [GitHub](https://github.com) Repositories (authored by me)
 
 | Name | Stars ⬇ |
 | ---- | -------: |
-| [broken-link-checker](https://github.com/stevenvachon/broken-link-checker) | 2,052 |
+| [broken-link-checker](https://github.com/stevenvachon/broken-link-checker) | 2,053 |
 | [handlebars-react](https://github.com/stevenvachon/handlebars-react) | 122 |
 | [relateurl](https://github.com/stevenvachon/relateurl) | 57 |
 | [handlebars-html-parser](https://github.com/stevenvachon/handlebars-html-parser) | 35 |
@@ -32,4 +32,4 @@
 | [camelcase-css](https://github.com/stevenvachon/camelcase-css) | 15 |
 
 ---
-File generated on: Sunday, December 14, 2025
+File generated on: Sunday, December 21, 2025

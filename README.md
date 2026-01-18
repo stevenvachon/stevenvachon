@@ -1,20 +1,20 @@
 - **163** public **pull requests merged** since *2009*.
-- **1148** public **issues reported** since *2009*.
+- **1149** public **issues reported** since *2009*.
 
 ## Top 10 Most Popular [npm](https://npmjs.com) Packages (authored by me)
 
 | Name | Monthly Downloads ⬇ | Weekly Downloads |
 | ---- | -------------------: | ---------------: |
-| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 166,396,645 | 45,528,960 |
-| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 60,294,686 | 16,514,888 |
-| [relateurl](https://www.npmjs.com/package/relateurl) | 44,156,866 | 11,025,737 |
-| [url-to-options](https://www.npmjs.com/package/url-to-options) | 6,023,942 | 1,619,158 |
-| [isurl](https://www.npmjs.com/package/isurl) | 5,450,138 | 1,464,358 |
-| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 436,711 | 108,603 |
-| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 401,298 | 108,836 |
-| [universal-url](https://www.npmjs.com/package/universal-url) | 300,103 | 84,009 |
-| [hasurl](https://www.npmjs.com/package/hasurl) | 300,047 | 83,959 |
-| [evaluate-value](https://www.npmjs.com/package/evaluate-value) | 262,135 | 73,916 |
+| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 164,128,663 | 50,208,156 |
+| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 61,587,308 | 18,097,721 |
+| [relateurl](https://www.npmjs.com/package/relateurl) | 43,558,622 | 13,269,147 |
+| [url-to-options](https://www.npmjs.com/package/url-to-options) | 5,926,774 | 1,747,089 |
+| [isurl](https://www.npmjs.com/package/isurl) | 5,403,759 | 1,593,574 |
+| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 414,100 | 130,573 |
+| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 400,948 | 121,954 |
+| [universal-url](https://www.npmjs.com/package/universal-url) | 303,278 | 95,010 |
+| [hasurl](https://www.npmjs.com/package/hasurl) | 303,234 | 95,004 |
+| [evaluate-value](https://www.npmjs.com/package/evaluate-value) | 263,893 | 80,163 |
 
 ## Top 10 Most Popular [GitHub](https://github.com) Repositories (authored by me)
 
@@ -32,4 +32,4 @@
 | [camelcase-css](https://github.com/stevenvachon/camelcase-css) | 15 |
 
 ---
-File generated on: Sunday, January 11, 2026
+File generated on: Sunday, January 18, 2026

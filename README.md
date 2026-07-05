@@ -5,16 +5,16 @@
 
 | Name | Monthly Downloads ⬇ | Weekly Downloads |
 | ---- | -------------------: | ---------------: |
-| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 279,620,293 | 71,816,833 |
-| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 222,948,409 | 52,814,175 |
-| [relateurl](https://www.npmjs.com/package/relateurl) | 71,107,316 | 17,565,425 |
-| [url-to-options](https://www.npmjs.com/package/url-to-options) | 8,916,847 | 2,096,019 |
-| [isurl](https://www.npmjs.com/package/isurl) | 7,930,300 | 1,945,212 |
-| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 729,981 | 167,725 |
-| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 674,002 | 169,768 |
-| [universal-url](https://www.npmjs.com/package/universal-url) | 444,565 | 104,804 |
-| [hasurl](https://www.npmjs.com/package/hasurl) | 417,163 | 125,186 |
-| [evaluate-value](https://www.npmjs.com/package/evaluate-value) | 371,304 | 84,794 |
+| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 281,744,587 | 69,300,614 |
+| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 225,306,514 | 51,534,616 |
+| [relateurl](https://www.npmjs.com/package/relateurl) | 71,427,847 | 17,107,435 |
+| [url-to-options](https://www.npmjs.com/package/url-to-options) | 9,069,571 | 2,341,911 |
+| [isurl](https://www.npmjs.com/package/isurl) | 8,072,396 | 2,183,727 |
+| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 697,519 | 184,039 |
+| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 690,350 | 136,849 |
+| [universal-url](https://www.npmjs.com/package/universal-url) | 425,790 | 84,956 |
+| [hasurl](https://www.npmjs.com/package/hasurl) | 405,979 | 87,822 |
+| [evaluate-value](https://www.npmjs.com/package/evaluate-value) | 373,694 | 103,494 |
 
 ## Top 10 Most Popular [GitHub](https://github.com) Repositories (authored by me)
 
@@ -32,4 +32,4 @@
 | [camelcase-css](https://github.com/stevenvachon/camelcase-css) | 15 |
 
 ---
-File generated on: Sunday, June 28, 2026
+File generated on: Sunday, July 5, 2026

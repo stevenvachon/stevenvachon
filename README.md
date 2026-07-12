@@ -1,26 +1,26 @@
 - **163** public **pull requests merged** since *2009*.
-- **1164** public **issues reported** since *2009*.
+- **1165** public **issues reported** since *2009*.
 
 ## Top 10 Most Popular [npm](https://npmjs.com) Packages (authored by me)
 
 | Name | Monthly Downloads ⬇ | Weekly Downloads |
 | ---- | -------------------: | ---------------: |
-| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 281,744,587 | 69,300,614 |
-| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 225,306,514 | 51,534,616 |
-| [relateurl](https://www.npmjs.com/package/relateurl) | 71,427,847 | 17,107,435 |
-| [url-to-options](https://www.npmjs.com/package/url-to-options) | 9,069,571 | 2,341,911 |
-| [isurl](https://www.npmjs.com/package/isurl) | 8,072,396 | 2,183,727 |
-| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 697,519 | 184,039 |
-| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 690,350 | 136,849 |
-| [universal-url](https://www.npmjs.com/package/universal-url) | 425,790 | 84,956 |
-| [hasurl](https://www.npmjs.com/package/hasurl) | 405,979 | 87,822 |
-| [evaluate-value](https://www.npmjs.com/package/evaluate-value) | 373,694 | 103,494 |
+| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 306,046,348 | 67,375,378 |
+| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 226,611,927 | 53,699,883 |
+| [relateurl](https://www.npmjs.com/package/relateurl) | 74,918,930 | 16,380,079 |
+| [url-to-options](https://www.npmjs.com/package/url-to-options) | 9,824,901 | 2,295,910 |
+| [isurl](https://www.npmjs.com/package/isurl) | 8,757,363 | 1,742,663 |
+| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 743,197 | 180,507 |
+| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 668,051 | 127,397 |
+| [evaluate-value](https://www.npmjs.com/package/evaluate-value) | 421,804 | 87,844 |
+| [universal-url](https://www.npmjs.com/package/universal-url) | 415,374 | 84,404 |
+| [hasurl](https://www.npmjs.com/package/hasurl) | 405,911 | 82,998 |
 
 ## Top 10 Most Popular [GitHub](https://github.com) Repositories (authored by me)
 
 | Name | Stars ⬇ |
 | ---- | -------: |
-| [broken-link-checker](https://github.com/stevenvachon/broken-link-checker) | 2,073 |
+| [broken-link-checker](https://github.com/stevenvachon/broken-link-checker) | 2,072 |
 | [handlebars-react](https://github.com/stevenvachon/handlebars-react) | 122 |
 | [relateurl](https://github.com/stevenvachon/relateurl) | 56 |
 | [handlebars-html-parser](https://github.com/stevenvachon/handlebars-html-parser) | 35 |
@@ -32,4 +32,4 @@
 | [camelcase-css](https://github.com/stevenvachon/camelcase-css) | 15 |
 
 ---
-File generated on: Sunday, July 5, 2026
+File generated on: Sunday, July 12, 2026

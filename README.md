@@ -1,20 +1,20 @@
 - **164** public **pull requests merged** since *2009*.
-- **1173** public **issues reported** since *2009*.
+- **1170** public **issues reported** since *2009*.
 
 ## Top 10 Most Popular [npm](https://npmjs.com) Packages (authored by me)
 
 | Name | Monthly Downloads ⬇ | Weekly Downloads |
 | ---- | -------------------: | ---------------: |
-| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 353,292,506 | 74,045,639 |
-| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 169,962,682 | 35,919,806 |
-| [relateurl](https://www.npmjs.com/package/relateurl) | 83,569,432 | 17,118,590 |
-| [url-to-options](https://www.npmjs.com/package/url-to-options) | 10,897,811 | 2,127,769 |
-| [isurl](https://www.npmjs.com/package/isurl) | 10,239,690 | 2,007,499 |
-| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 1,127,072 | 186,012 |
-| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 748,882 | 131,659 |
-| [evaluate-value](https://www.npmjs.com/package/evaluate-value) | 704,178 | 160,765 |
-| [universal-url](https://www.npmjs.com/package/universal-url) | 495,525 | 88,212 |
-| [hasurl](https://www.npmjs.com/package/hasurl) | 495,366 | 88,189 |
+| [is-plain-object](https://www.npmjs.com/package/is-plain-object) | 327,150,719 | 42,896,118 |
+| [camelcase-css](https://www.npmjs.com/package/camelcase-css) | 157,845,483 | 21,727,908 |
+| [relateurl](https://www.npmjs.com/package/relateurl) | 77,124,254 | 9,596,206 |
+| [isurl](https://www.npmjs.com/package/isurl) | 10,099,222 | 2,149,447 |
+| [url-to-options](https://www.npmjs.com/package/url-to-options) | 10,017,365 | 1,304,634 |
+| [http-equiv-refresh](https://www.npmjs.com/package/http-equiv-refresh) | 1,012,420 | 143,413 |
+| [normalize-html-whitespace](https://www.npmjs.com/package/normalize-html-whitespace) | 695,773 | 91,714 |
+| [evaluate-value](https://www.npmjs.com/package/evaluate-value) | 680,604 | 107,320 |
+| [universal-url](https://www.npmjs.com/package/universal-url) | 441,041 | 51,660 |
+| [hasurl](https://www.npmjs.com/package/hasurl) | 440,821 | 51,698 |
 
 ## Top 10 Most Popular [GitHub](https://github.com) Repositories (authored by me)
 
@@ -32,4 +32,4 @@
 | [camelcase-css](https://github.com/stevenvachon/camelcase-css) | 15 |
 
 ---
-File generated on: Sunday, October 11, 2026
+File generated on: Sunday, October 18, 2026
